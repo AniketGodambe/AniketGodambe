@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--**AniketGodambe/AniketGodambe
 * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
-Hi there I'm Aniket  
+Hi there I'm Aniket 👋
 
 <hr>
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
 
-Hello, I am Aniket Godambe 👋. I am a Flutter developer. I like to learn new things.
+Hello, I am Aniket Godambe 👋. I am exploring flutter, working on firebase notifications, deep linking, razor pay integration and exploring  more concepts like this.
 
 <hr>
 

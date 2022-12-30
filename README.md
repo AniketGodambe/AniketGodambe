@@ -71,7 +71,7 @@ Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and 
  &nbsp;<i><b>Can Connect With Me On</b></i>
  
  <p align="center"><br>
-<a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6/" target="_blank">
+<a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6" target="_blank">
   <img align="center" alt="Aniket Godambe | Linkedin"  width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 

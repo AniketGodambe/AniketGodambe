@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and Android mobile appications).
 
-<hr>
 
 
 

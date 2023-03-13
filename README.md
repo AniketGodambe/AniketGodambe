@@ -24,9 +24,9 @@ Hello, I am Aniket Godambe 👋. <br>  Passionate Flutter developer with over 1 
 <br><br>
 <p align="center">
 <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AniketGodambe&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
 
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AniketGodambe&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  
 </div>
 </p>
 
@@ -41,7 +41,7 @@ Hello, I am Aniket Godambe 👋. <br>  Passionate Flutter developer with over 1 
  <p align="center">
 
  &nbsp;<i><b>You Can Connect With Me On</b></i>
- 
+
  <p align="center"><br>
 <a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6" target="_blank">
   <img align="center" alt="Aniket Godambe | Linkedin"  width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -55,14 +55,14 @@ Hello, I am Aniket Godambe 👋. <br>  Passionate Flutter developer with over 1 
 </a> &nbsp;&nbsp;
 
 <p>
-  
 
-  <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/AniketGodambe/count.svg" />  
+
+  <!-- retro visitor counter -->
+<p align="center" >
+  <img src="https://profile-counter.glitch.me/AniketGodambe/count.svg" />
 </p>
 <hr>
 
 
- 
+
 <!--  ddddhfgdhfak -->

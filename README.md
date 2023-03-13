@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and Android mobile appications).
+Hello, I am Aniket Godambe 👋. <br>Passionate Flutter developer with over 1 year of experience in creating elegant and efficient mobile applications. Skilled in developing custom widgets, integrating APIs, and implementing beautiful UI/UX designs.
 
 
 

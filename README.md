@@ -23,15 +23,6 @@ Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and 
 
 
 
-<!--  activity recent -->
- <p align="center">
-
- &nbsp;<i><b>Recent GitHub Activity</b></i>
- 
-
-   <a href="https://github.com/AniketGodambe"><img alt="Aniket's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AniketGodambe&custom_title=Aniket's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</p>
 
 <hr>
 

@@ -24,7 +24,7 @@ Hello, I am Aniket Godambe 👋. <br>  Passionate Flutter developer with over 1 
 <br><br>
 <p align="center">
 <div align=center>
-  <a href="https://github.com/AniketGodambe" title="Go to Source">
+  <a href="https://github.com/AniketGodambe" title="Go to Source" target="_blank">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AniketGodambe&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
 
 </div>

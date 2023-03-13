@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-Hello, I am Aniket Godambe 👋. <br>Passionate Flutter developer with over 1 year of experience in creating elegant and efficient mobile applications. Skilled in developing custom widgets, integrating APIs, and implementing beautiful UI/UX designs.
+Hello, I am Aniket Godambe 👋. <br>Passionate Flutter developer with over 1 year of experience in creating elegant and efficient mobile applications. Skilled in developing custom widgets, integrating APIs, and implementing beautiful UI/UX designs. <br>My expertise in Flutter has enabled me to build high-performance mobile applications that are user-friendly and intuitive. I am always seeking to improve my skills and stay up-to-date with the latest trends and best practices in mobile development.
 
 
 

@@ -28,7 +28,7 @@ Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and 
 
  <p align="center">
 
- &nbsp;<i><b>streak Rate</b></i><br><br>
+ &nbsp;<i><b>Streak Rate</b></i><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AniketGodambe&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -38,7 +38,7 @@ Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and 
 
 <p align="center">
 
- &nbsp;<i><b>achievments</b></i>
+ &nbsp;<i><b>Achievments</b></i>
 <br><br>
 <p align="center">
 <div align=center>
@@ -58,7 +58,7 @@ Hello, I am Aniket Godambe 👋. <br>I’m currently working on flutter(IOS and 
 <!-- contact -->
  <p align="center">
 
- &nbsp;<i><b>Can Connect With Me On</b></i>
+ &nbsp;<i><b>You Can Connect With Me On</b></i>
  
  <p align="center"><br>
 <a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6" target="_blank">

@@ -1,68 +1,26 @@
 
-Hello, I am Aniket Godambe 👋. <br>  Passionate Flutter developer with over 1 year of experience in creating elegant and efficient mobile applications. Skilled in developing custom widgets, integrating APIs, and implementing beautiful UI/UX designs. <br>My expertise in Flutter has enabled me to build high-performance mobile applications that are user-friendly and intuitive. I am always seeking to improve my skills and stay up-to-date with the latest trends and best practices in mobile development.
 
+<h1 align="center">Hi 👋, I'm Anuj Maurya</h1>
+<h3 align="center">A passionate Android developer from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj0612&label=Profile%20views&color=0e75b6&style=flat" alt="anuj0612" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj0612" alt="anuj0612" /></a> </p>
 
+- 📫 How to reach me **maurya.anuj.0612@gmail.com**
 
-<hr>
-
-
- <p align="center">
-
- &nbsp;<i><b>Streak Rate</b></i><br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AniketGodambe&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<hr>
-
-
-
-<p align="center">
-
- &nbsp;<i><b>Achievments</b></i>
-<br><br>
-<p align="center">
-<div align=center>
-  <a target="blank" href="https://github.com/AniketGodambe" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AniketGodambe&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
-
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anuj-maurya-55b063a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-maurya-55b063a0" height="30" width="40" /></a>
+<a href="https://instagram.com/anujmaurya0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anujmaurya0612" height="30" width="40" /></a>
+<a href="https://discord.gg/Anuj#7435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anuj#7435" height="30" width="40" /></a>
 </p>
 
-<br>
-</p>
- <hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj0612&show_icons=true&locale=en&layout=compact" alt="anuj0612" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj0612&show_icons=true&locale=en" alt="anuj0612" /></p>
 
-
-<!-- contact -->
- <p align="center">
-
- &nbsp;<i><b>You Can Connect With Me On</b></i>
-
- <p align="center"><br>
-<a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6" target="_blank">
-  <img align="center" alt="Aniket Godambe | Linkedin"  width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-
-<a href="https://www.instagram.com/aniket18._/" target="_blank">
-  <img align="center" alt="Aniket Godambe | Instagram"  width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:godambeaniket07@gmail.com" target="_blank" >
-  <img align="center" alt="Aniket Godambe | Gmail"  width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-
-<p>
-
-
-  <!-- retro visitor counter -->
-<p align="center" >
-  <img src="https://profile-counter.glitch.me/AniketGodambe/count.svg" />
-</p>
-<hr>
-
-
-
-<!--  ddddhfgdhfak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj0612&" alt="anuj0612" /></p>

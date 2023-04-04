@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aniket-godambe-4543b41b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-godambe-4543b41b6" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aniket18._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket18._" height="30" width="40" /></a>
+  <a href="mailto:godambeaniket07@gmail.com" target="_blank" >
+  <img align="center" alt="Aniket Godambe | Gmail"  width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
 
 </p>
 

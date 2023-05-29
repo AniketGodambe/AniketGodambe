@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aniket Godambe</h1>
-<h3 align="center">I am a passionate Flutter developer, dedicated to creating high-quality mobile applications with a focus on user experience. With a strong background in software development and a keen eye for design, I strive to deliver elegant and efficient solutions./h3>
+<h3 align="center">I am a passionate Flutter developer, dedicated to creating high-quality mobile applications with a focus on user experience. With a strong background in software development and a keen eye for design, I strive to deliver elegant and efficient solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AniketGodambe&label=Profile%20views&color=0e75b6&style=flat" alt="AniketGodambe" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
